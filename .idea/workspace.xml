@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489e737a-c365-4073-9d41-f546bd1b0628" name="Changes" comment="main.py">
+    <list default="true" id="489e737a-c365-4073-9d41-f546bd1b0628" name="Changes" comment="snake movement">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.venv/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/main.py" afterDir="false" />
     </list>
@@ -96,12 +96,20 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1713464076184</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="snake movement">
+      <option name="closed" value="true" />
+      <created>1713714298415</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1713714298415</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First" />
     <MESSAGE value="main.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="main.py" />
+    <MESSAGE value="snake movement" />
+    <option name="LAST_COMMIT_MESSAGE" value="snake movement" />
   </component>
 </project>
