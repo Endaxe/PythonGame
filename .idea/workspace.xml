@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="489e737a-c365-4073-9d41-f546bd1b0628" name="Changes" comment="First">
-      <change afterPath="$PROJECT_DIR$/.venv/main.py" afterDir="false" />
+    <list default="true" id="489e737a-c365-4073-9d41-f546bd1b0628" name="Changes" comment="main.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Endaxe"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Endaxe/PythonGame.git",
@@ -82,11 +89,19 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1713463955360</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="main.py">
+      <option name="closed" value="true" />
+      <created>1713464076184</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1713464076184</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First" />
-    <option name="LAST_COMMIT_MESSAGE" value="First" />
+    <MESSAGE value="main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="main.py" />
   </component>
 </project>
